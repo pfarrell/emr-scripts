@@ -1,6 +1,6 @@
-# Hive Scripts
+# EMR Scripts
 
-A collection of shell scripts and hive scripts designed to run RealGravity's account.
+A collection of shell scripts designed for a simple EMR workflow.
 This has not been tested under another user's account, so, caveat emptor.
 
 These emr hive jobs flows are designed to launch a cluster to analyze a time slice of data
